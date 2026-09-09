@@ -6,7 +6,7 @@
 
 This is **OpenAIGames' space for making things together**. Bring an idea, share a playable demo, find collaborators, and give someone else's game a thoughtful playtest.
 
-**[Bring an idea ↗](https://github.com/openaigames/community/issues/new?template=01-game-idea.yml)** · **[Share a playable demo ↗](https://github.com/openaigames/community/issues/new?template=02-game-demo.yml)**
+**[Bring an idea ↗](https://github.com/openaigames/community/issues/new?template=01-game-idea.yml)** · **[Share a playable demo ↗](https://github.com/openaigames/community/issues/new?template=02-game-demo.yml)** · **[Contribute through a PR ↗](CONTRIBUTING.en.md)**
 
 [Explore ideas](https://github.com/openaigames/community/issues?q=is%3Aissue%20label%3Aidea) · [Play demos](https://github.com/openaigames/community/issues?q=is%3Aissue%20label%3Ademo) · [Showcase](SHOWCASE.en.md) · [How to take part](CONTRIBUTING.en.md)
 
@@ -20,7 +20,15 @@ This is **OpenAIGames' space for making things together**. Bring an idea, share 
 | A demo | Playable link, controls, feedback you need | Playtest, discuss, and iterate |
 | A recurring problem | Context, current steps, a related demo | Understand the need and build our own tools |
 
-Use Issues to record ideas and demos, with `idea` and `demo` labels. Keep playtest feedback, version updates, and work assignments in the relevant Issue. When a demo grows from an idea, link back to the original discussion so the process stays connected.
+Open an Issue when you want to start a discussion, using `idea`, `demo`, or `tooling` labels. If you already have organized material, you can submit a PR directly without opening an Issue first.
+
+### Keep the making in the repository
+
+- [ideas/](ideas/): ideas, core mechanics, and collaboration plans.
+- [demos/](demos/): playable links, creator credits, making-of notes, and version changes.
+- [tooling/](tooling/): tool needs and validation plans drawn from real game development.
+
+Copy the relevant [Markdown template](templates/), add a record to its directory, and open a PR. Once merged, the material lives in the repository with its change history and PR discussion. Update the same record for later versions, and cross-link related Issues when available.
 
 ### Discover tool needs by making real games
 
