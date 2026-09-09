@@ -1,6 +1,8 @@
 [简体中文](SHOWCASE.md) · English
 
-# Showcase
+# Submission index
+
+This is the repository's index of submissions and records. A separate website is planned for showcasing and playing demos and games.
 
 We are collecting the first submissions. This index will grow from real demos, keeping creator credits, playable links, and making-of notes together.
 
