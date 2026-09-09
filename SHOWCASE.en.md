@@ -8,8 +8,8 @@ We are collecting the first submissions. This index will grow from real demos, k
 
 ## Add a game to the index
 
-Start by submitting a playable demo. Once its link works and the controls and credits are clear, a creator or maintainer can add an entry through a Pull Request. Link the original submission so playtest feedback stays connected.
+Submit a playable demo through an Issue, or open a PR directly to add a record under [demos/](demos/). Once its link works and the controls and credits are clear, a creator or maintainer can add an index entry in the same PR. Link the record or original submission so playtest feedback stays connected.
 
-Each entry records the game title, creators, playable link, submission Issue, and source code or making-of notes when available. Update the original submission when a link or project status changes, then keep this index in sync.
+Each entry records the game title, creators, playable link, repository record or submission Issue/PR, and source code or making-of notes when available. Update the same record when a link or project status changes, then keep this index in sync.
 
 [Back to the community](README.en.md)
