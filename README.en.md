@@ -8,7 +8,7 @@ This is **OpenAIGames' space for making things together**. Bring an idea, share 
 
 **[Bring an idea ↗](https://github.com/openaigames/community/issues/new?template=01-game-idea.yml)** · **[Share a playable demo ↗](https://github.com/openaigames/community/issues/new?template=02-game-demo.yml)** · **[Contribute through a PR ↗](CONTRIBUTING.en.md)**
 
-[Explore ideas](https://github.com/openaigames/community/issues?q=is%3Aissue%20label%3Aidea) · [Play demos](https://github.com/openaigames/community/issues?q=is%3Aissue%20label%3Ademo) · [Showcase](SHOWCASE.en.md) · [How to take part](CONTRIBUTING.en.md)
+[Explore ideas](https://github.com/openaigames/community/issues?q=is%3Aissue%20label%3Aidea) · [Browse demo submissions](https://github.com/openaigames/community/issues?q=is%3Aissue%20label%3Ademo) · [Submission index](SHOWCASE.en.md) · [How to take part](CONTRIBUTING.en.md)
 
 ---
 
@@ -34,10 +34,12 @@ Copy the relevant [Markdown template](templates/), add a record to its directory
 
 When you encounter repetitive or time-consuming steps, [record a tool need](https://github.com/openaigames/community/issues/new?template=03-tool-need.yml). Describe the specific problem, related work, and the outcome you want before deciding what to build.
 
-### About this repository
+### Community records and the future showcase website
 
 `community` keeps ideas, demo submissions, playtest feedback, and collaboration records together. Once a game or tool becomes a project, its code can live in a dedicated repository linked back here.
 
-The showcase starts with real submissions. Your first playable version is welcome; it does not need to be perfect.
+A separate website is planned for discovering, showcasing, and playing demos and games. This repository's submission index organizes creators, playable links, source code, and making-of notes.
+
+The submission index starts with real contributions. Your first playable version is welcome; it does not need to be perfect.
 
 <p align="center"><b>Start with play. Stay open. Keep creating.</b><br /><sub>MAKE SOMETHING WORTH PLAYING.</sub></p>

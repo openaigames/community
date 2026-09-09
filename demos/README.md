@@ -7,6 +7,6 @@ This directory keeps demo records merged through PRs: playable links, credits, m
 Copy the [demo template](../templates/demo.md) to `demos/<short-name>/README.md`, fill it in, and open a PR.
 
 截图放在记录旁边；游戏源码或可执行文件链接到项目仓库。索引条目可在同一个 PR 中添加。
-Keep screenshots beside the record, link game code or executables to their project repository, and add a showcase entry in the same PR if ready.
+Keep screenshots beside the record, link game code or executables to their project repository, and add a submission index entry in the same PR if ready.
 
-[作品索引](../SHOWCASE.md) · [Showcase](../SHOWCASE.en.md) · [参与方式 / How to contribute](../CONTRIBUTING.md) · [English](../CONTRIBUTING.en.md)
+[投稿索引](../SHOWCASE.md) · [Submission index](../SHOWCASE.en.md) · [参与方式 / How to contribute](../CONTRIBUTING.md) · [English](../CONTRIBUTING.en.md)

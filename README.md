@@ -8,7 +8,7 @@
 
 **[带一个点子来 ↗](https://github.com/openaigames/community/issues/new?template=01-game-idea.yml)**　·　**[提交可试玩 Demo ↗](https://github.com/openaigames/community/issues/new?template=02-game-demo.yml)**　·　**[通过 PR 留存 ↗](CONTRIBUTING.md)**
 
-[浏览点子](https://github.com/openaigames/community/issues?q=is%3Aissue%20label%3Aidea)　·　[试玩 Demo](https://github.com/openaigames/community/issues?q=is%3Aissue%20label%3Ademo)　·　[作品索引](SHOWCASE.md)　·　[参与方式](CONTRIBUTING.md)
+[浏览点子](https://github.com/openaigames/community/issues?q=is%3Aissue%20label%3Aidea)　·　[浏览 Demo 投稿](https://github.com/openaigames/community/issues?q=is%3Aissue%20label%3Ademo)　·　[投稿索引](SHOWCASE.md)　·　[参与方式](CONTRIBUTING.md)
 
 ---
 
@@ -34,10 +34,12 @@
 
 做游戏时遇到重复、费时的步骤，可以[记录一个工具需求](https://github.com/openaigames/community/issues/new?template=03-tool-need.yml)。先说清楚具体问题、关联作品和希望改善的结果，再一起决定做什么。
 
-### 关于这个仓库
+### 共创记录与展示网页
 
 `community` 沉淀点子、作品投稿、试玩反馈和协作记录。正式游戏与工具的代码，在项目确定后放到各自的仓库，并链接回这里。
 
-作品索引从真实投稿开始整理。欢迎第一个可玩的版本，不用等到它完美。
+Demo 和游戏的集中展示、浏览与游玩，后续会由单独建设的网页承接。这里的投稿索引用于整理作者、试玩地址、源码和制作记录。
+
+投稿索引从真实投稿开始整理。欢迎第一个可玩的版本，不用等到它完美。
 
 <p align="center"><b>好玩是起点。开放，让创作继续。</b><br /><sub>MAKE SOMETHING WORTH PLAYING.</sub></p>
