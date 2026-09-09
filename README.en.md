@@ -34,11 +34,11 @@ Copy the relevant [Markdown template](templates/), add a record to its directory
 
 When you encounter repetitive or time-consuming steps, [record a tool need](https://github.com/openaigames/community/issues/new?template=03-tool-need.yml). Describe the specific problem, related work, and the outcome you want before deciding what to build.
 
-### Community records and the future showcase website
+### Community records and the showcase website
 
 `community` keeps ideas, demo submissions, playtest feedback, and collaboration records together. Once a game or tool becomes a project, its code can live in a dedicated repository linked back here.
 
-A separate website is planned for discovering, showcasing, and playing demos and games. This repository's submission index organizes creators, playable links, source code, and making-of notes.
+A dedicated website for discovering, showcasing, and playing demos and games is under development. This repository's submission index organizes creators, playable links, source code, and making-of notes.
 
 The submission index starts with real contributions. Your first playable version is welcome; it does not need to be perfect.
 
