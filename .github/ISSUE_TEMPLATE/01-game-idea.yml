@@ -1,0 +1,34 @@
+name: 游戏点子 / Game idea
+description: 从一个想做的体验开始，一起找到第一版玩法。 / Start with an experience worth making.
+title: "[Idea] "
+labels: [idea]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        一个清楚的点子就可以开始。中文或 English 都可以。
+        A clear idea is enough to start. Write in Chinese or English.
+  - type: textarea
+    id: experience
+    attributes:
+      label: 玩家会做什么？ / What does the player do?
+      description: 描述核心互动和你觉得有趣的地方。 / Describe the core interaction and what makes it fun.
+    validations:
+      required: true
+  - type: textarea
+    id: first-version
+    attributes:
+      label: 第一版做什么？ / What is the smallest playable version?
+      description: 先确定一个可以验证的玩法。 / Focus on one mechanic you can test.
+    validations:
+      required: true
+  - type: textarea
+    id: collaboration
+    attributes:
+      label: 如何一起做？ / How can others help?
+      description: 你能做的部分、已有进展，以及需要的协作。 / Your contribution, progress so far, and help you need.
+  - type: textarea
+    id: materials
+    attributes:
+      label: 草图或补充资料 / Sketches or extra context
+      description: 可以附上草图、玩法示意或制作记录。 / Add sketches, mechanic notes, or progress logs if useful.

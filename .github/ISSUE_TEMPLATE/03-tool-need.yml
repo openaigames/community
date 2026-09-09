@@ -1,0 +1,36 @@
+name: 工具需求 / Tool need
+description: 从真实制作问题中提炼我们自己的工具需求。 / Describe a recurring problem in making games.
+title: "[Tool] "
+labels: [tooling]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        先描述问题，再讨论工具怎么做。中文或 English 都可以。
+        Start with the problem before proposing a tool. Write in Chinese or English.
+  - type: textarea
+    id: problem
+    attributes:
+      label: 具体卡在哪里？ / What is the problem?
+      description: 描述实际制作场景、当前步骤和重复发生的麻烦。 / Describe the real workflow, current steps, and recurring friction.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: 关联作品或复现材料 / Related work or examples
+      description: 链接 Demo、点子 Issue、截图或制作记录，说明问题从哪里来。 / Link a demo, idea Issue, screenshot, or making-of note.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: 希望改善什么？ / What should improve?
+      description: 写清楚希望减少的步骤、耗时或可验证的结果。 / Describe fewer steps, time saved, or a result we can verify.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 初步想法 / Possible approach
+      description: 可选。你愿意先尝试哪一部分？ / Optional. What would you like to try first?

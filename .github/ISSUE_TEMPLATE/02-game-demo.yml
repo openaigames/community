@@ -1,0 +1,50 @@
+name: 提交 Demo / Share a demo
+description: 带上试玩链接，收集一轮具体反馈。 / Share a playable link and get useful feedback.
+title: "[Demo] "
+labels: [demo]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        不用等到完成。一个能玩的核心机制就值得分享。中文或 English 都可以。
+        No need to wait for a finished game. One playable mechanic is worth sharing.
+  - type: input
+    id: playable-link
+    attributes:
+      label: 试玩链接 / Playable link
+      description: 可以是在线试玩或下载页面。 / A browser demo or a download page.
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: play-instructions
+    attributes:
+      label: 怎么玩？ / How do we play?
+      description: 一句话核心玩法、操作方式，以及必要的运行步骤。 / Core mechanic, controls, and any setup steps.
+    validations:
+      required: true
+  - type: textarea
+    id: feedback
+    attributes:
+      label: 最想听到什么反馈？ / What feedback would help most?
+      description: 例如引导是否清楚、操作是否顺手，或一个机制是否好玩。 / For example, clarity, controls, or whether a mechanic feels fun.
+    validations:
+      required: true
+  - type: textarea
+    id: source-and-notes
+    attributes:
+      label: 源码与制作记录 / Source and making-of notes
+      description: 可选。链接源码、制作过程或已知问题。 / Optional links to code, process notes, or known issues.
+  - type: textarea
+    id: creators
+    attributes:
+      label: 创作者与署名 / Creators and credits
+      description: 作者、协作者，以及需要注明的素材来源。 / Authors, collaborators, and asset credits.
+    validations:
+      required: true
+  - type: input
+    id: related-idea
+    attributes:
+      label: 关联点子 / Related idea
+      description: 如果这个 Demo 来自社区点子，链接原始 Issue。 / Link the original idea Issue, if there is one.
+      placeholder: https://github.com/openaigames/community/issues/
