@@ -8,6 +8,12 @@ We are collecting the first submissions. This index will grow from real demos, k
 
 **[Browse all demo submissions](https://github.com/openaigames/community/issues?q=is%3Aissue%20label%3Ademo)** · [Share your demo](https://github.com/openaigames/community/issues/new?template=02-game-demo.yml)
 
+## Archived demos
+
+| Game | Creators | Playable link | Record | Source / notes |
+| --- | --- | --- | --- | --- |
+| The Binding of dodo | [waterbird-i](https://github.com/waterbird-i) | [Play](https://waterbird-i.github.io/the-binding-of-dodo/) | [Record](demos/the-binding-of-dodo/README.md) | [Repo](https://github.com/waterbird-i/the-binding-of-dodo) |
+
 ## Add a game to the index
 
 Submit a playable demo through an Issue, or open a PR directly to add a record under [demos/](demos/). Once its link works and the controls and credits are clear, a creator or maintainer can add an index entry in the same PR. Link the record or original submission so playtest feedback stays connected.
