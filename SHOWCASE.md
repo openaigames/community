@@ -8,6 +8,12 @@
 
 **[浏览全部 Demo 投稿](https://github.com/openaigames/community/issues?q=is%3Aissue%20label%3Ademo)** · [提交你的 Demo](https://github.com/openaigames/community/issues/new?template=02-game-demo.yml)
 
+## 已归档 Demo
+
+| 作品 | 创作者 | 试玩链接 | 归档 | 源码 / 制作记录 |
+| --- | --- | --- | --- | --- |
+| The Binding of dodo | [waterbird-i](https://github.com/waterbird-i) | [试玩](https://waterbird-i.github.io/the-binding-of-dodo/) | [记录](demos/the-binding-of-dodo/README.md) | [仓库](https://github.com/waterbird-i/the-binding-of-dodo) |
+
 ## 如何进入索引
 
 可以通过 Issue 提交 Demo，也可以直接用 PR 在 [demos/](demos/) 中添加归档。试玩链接有效、操作说明清楚且署名齐全后，创作者或维护者可以在同一个 PR 中添加索引条目，并链接归档或原始投稿，方便继续收集反馈。
