@@ -4,7 +4,11 @@
 
 这是仓库中的投稿与归档索引。集中展示和游玩 Demo／游戏的网页正在开发中。
 
-首批作品征集中。索引会从真实 Demo 投稿中逐步整理，保留创作者署名、试玩链接和制作记录。
+索引从真实 Demo 投稿中整理，保留创作者署名、试玩链接和制作记录。
+
+| 作品 | 创作者 | 试玩 | 归档 | 源码与制作记录 |
+| --- | --- | --- | --- | --- |
+| NIGHTFURY · 极夜狂飙 | [Ziang-Chen](https://github.com/Ziang-Chen) | [在线试玩](https://ziang-chen.github.io/nightfury-racing/) | [Demo 档案](demos/nightfury-racing/README.md) | [项目仓库](https://github.com/Ziang-Chen/nightfury-racing) |
 
 **[浏览全部 Demo 投稿](https://github.com/openaigames/community/issues?q=is%3Aissue%20label%3Ademo)** · [提交你的 Demo](https://github.com/openaigames/community/issues/new?template=02-game-demo.yml)
 
