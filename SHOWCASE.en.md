@@ -4,7 +4,11 @@
 
 This is the repository's index of submissions and records. A dedicated website for showcasing and playing demos and games is under development.
 
-We are collecting the first submissions. This index will grow from real demos, keeping creator credits, playable links, and making-of notes together.
+This index collects real demos, keeping creator credits, playable links, and making-of notes together.
+
+| Game | Creator | Play | Record | Source and making-of notes |
+| --- | --- | --- | --- | --- |
+| NIGHTFURY · 极夜狂飙 | [Ziang-Chen](https://github.com/Ziang-Chen) | [Play online](https://ziang-chen.github.io/nightfury-racing/) | [Demo record](demos/nightfury-racing/README.md) | [Project repository](https://github.com/Ziang-Chen/nightfury-racing) |
 
 **[Browse all demo submissions](https://github.com/openaigames/community/issues?q=is%3Aissue%20label%3Ademo)** · [Share your demo](https://github.com/openaigames/community/issues/new?template=02-game-demo.yml)
 
