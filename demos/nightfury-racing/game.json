@@ -1,0 +1,26 @@
+{
+  "id": "nightfury-racing",
+  "title": "NIGHTFURY · 极夜狂飙",
+  "description": "在霓虹都市、火山、冰原和浮岛间漂移竞速。八张赛道、两款跑车，与五位 AI 对手完成五圈比赛。",
+  "category": "街机赛车",
+  "creator": "Ziang-Chen",
+  "creator_url": "https://github.com/Ziang-Chen",
+  "preview_url": "https://ziang-chen.github.io/nightfury-racing/",
+  "source_url": "https://github.com/Ziang-Chen/nightfury-racing",
+  "submission_url": "https://github.com/openaigames/community/pull/6",
+  "cover_url": "https://ziang-chen.github.io/nightfury-racing/covers/poster.jpg",
+  "gameplay_url": "https://ziang-chen.github.io/nightfury-racing/screenshots/city.jpg",
+  "image_caption": "霓虹都市 · 作者提供的实机截图；卡带封面为概念海报",
+  "version_label": "2026-09-13 Demo",
+  "controls": "W / S 加速刹车 · A / D 转向 · 空格漂移 · Shift 氮气",
+  "instructions": "桌面浏览器选择地图与车型，完成五圈比赛。C 切换镜头，R 回到路面，Esc 暂停。漂移和落地奖励可以补充氮气；设置中可选择流畅或精细画质。",
+  "feedback_questions": [
+    "首次加载和选图、选车流程是否清楚？",
+    "转向、漂移和氮气的手感是否容易掌握？",
+    "回环与断桥飞跃失误后，能否顺利回到赛道？",
+    "五圈比赛与 AI 追击的难度是否合适？"
+  ],
+  "credits": "Ziang-Chen 创作，使用 Codex 辅助开发。原创代码采用 MIT 许可。",
+  "attribution": "Aventador 模型：Arion Digital；Veyron 模型：DevPoly3D，CC BY 4.0。Three.js、meshoptimizer：MIT；Draco：Apache-2.0。完整来源及修改说明见游戏源码中的 THIRD_PARTY_NOTICES.md 与游戏内署名页。地图封面和海报为 ImageGen 概念艺术。",
+  "featured": false
+}
