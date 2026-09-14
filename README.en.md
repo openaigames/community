@@ -43,3 +43,8 @@ A dedicated website for discovering, showcasing, and playing demos and games is 
 The submission index starts with real contributions. Your first playable version is welcome; it does not need to be perfect.
 
 <p align="center"><b>Start with play. Stay open. Keep creating.</b><br /><sub>MAKE SOMETHING WORTH PLAYING.</sub></p>
+
+
+## Playable PR previews
+
+[Submission guide](docs/GAME_SUBMISSION.en.md) · [game.json template](templates/game.json) · [Agent skill](skills/openaigames-submit-demo/SKILL.md). Open a PR to get a playable listing preview; merging publishes it to the catalog. New games default to non-featured.

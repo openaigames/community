@@ -1,0 +1,21 @@
+{
+  "id": "my-game",
+  "title": "我的游戏",
+  "description": "一句话说明玩家要做什么，以及哪里好玩。",
+  "category": "街机",
+  "creator": "your-github-name",
+  "creator_url": "https://github.com/your-github-name",
+  "preview_url": "https://example.com/my-game/",
+  "source_url": "https://github.com/your-github-name/my-game",
+  "submission_url": "https://github.com/openaigames/community/tree/main/demos/my-game",
+  "cover_url": "cover.webp",
+  "version_label": "v0.1.0",
+  "controls": "方向键移动 · 空格开始",
+  "instructions": "说明目标、操作和如何重新开始。",
+  "feedback_questions": [
+    "第一次打开是否知道怎么玩？"
+  ],
+  "credits": "创作者署名与 AI 辅助说明。",
+  "attribution": "第三方素材及许可证；没有则留空。",
+  "featured": false
+}

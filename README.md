@@ -43,3 +43,8 @@ Demo 和游戏的展示网页正在开发中，将提供集中展示、浏览与
 投稿索引从真实投稿开始整理。欢迎第一个可玩的版本，不用等到它完美。
 
 <p align="center"><b>好玩是起点。开放，让创作继续。</b><br /><sub>MAKE SOMETHING WORTH PLAYING.</sub></p>
+
+
+## 投稿预览与自动上架
+
+[完整投稿指南](docs/GAME_SUBMISSION.md) · [game.json 模板](templates/game.json) · [Agent Skill](skills/openaigames-submit-demo/SKILL.md)。提交 PR 后机器人提供展厅预览，合并后自动更新游戏目录。新游戏默认不进入首页精选。

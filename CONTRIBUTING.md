@@ -45,3 +45,8 @@
 使用 Issue 讨论时，一个点子或 Demo 保持一条主讨论；认领工作时在其中留言说明范围。PR 可以关联讨论，但不是必须先有 Issue。修改社区说明时，同时检查中文与英文版本。
 
 Demo 来自已有点子时，在投稿中链接原始 Issue 或归档文档。试玩链接与署名齐全后，可以通过 Pull Request 更新[投稿索引](SHOWCASE.md)。
+
+
+## 投稿预览与自动上架
+
+[完整投稿指南](docs/GAME_SUBMISSION.md) · [game.json 模板](templates/game.json) · [Agent Skill](skills/openaigames-submit-demo/SKILL.md)。提交 PR 后机器人提供展厅预览，合并后自动更新游戏目录。新游戏默认不进入首页精选。

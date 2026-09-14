@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "id": "dodo",
+      "title": "The Binding of dodo",
+      "description": "带着眼泪闯进随机地牢，捡道具、打 Boss，看看这一次能走多远。",
+      "category": "肉鸽地牢",
+      "owner": "waterbird-i",
+      "creator": "waterbird-i",
+      "creator_url": "https://github.com/waterbird-i",
+      "cover": "dodo",
+      "cover_url": "/static/games/dodo/title.png",
+      "gameplay_url": "/static/games/dodo/gameplay.gif",
+      "demo": false,
+      "mine": false,
+      "external": true,
+      "source_url": "https://github.com/waterbird-i/the-binding-of-dodo",
+      "submission_url": "https://github.com/openaigames/community/pull/5",
+      "version_label": "v0.10.0",
+      "current_version": "dodo-v0.10.0",
+      "versions": [
+        {
+          "id": "dodo-v0.10.0",
+          "number": "0.10.0",
+          "preview_url": "https://waterbird-i.github.io/the-binding-of-dodo/"
+        }
+      ],
+      "preview_url": "https://waterbird-i.github.io/the-binding-of-dodo/",
+      "controls": "WASD 移动 · ↑ ↓ ← → 四向射击",
+      "instructions": "P 暂停 · E 炸弹 · 空格使用主动道具 · Tab 全图 · I 解锁图鉴。手机使用游戏内的虚拟摇杆与射击按钮。",
+      "feedback_questions": [
+        "第一层的引导清楚吗？",
+        "四向射击用起来顺手吗？",
+        "前几层的难度会让你想继续吗？"
+      ],
+      "credits": "作者 waterbird-i 负责需求、玩法设计与验收，代码由 AI 辅助完成。",
+      "attribution": "据作者说明，本作为《The Binding of Isaac》的致敬性同人作品，与原作者及发行商无关联；图形与音效均由程序生成。",
+      "featured": true
+    }
+  ]
+}

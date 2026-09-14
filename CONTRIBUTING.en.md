@@ -45,3 +45,8 @@ Leave feedback on the demo's Issue or PR: what you tried, where you got stuck, w
 When using Issues, keep one main discussion per idea or demo. If you take on a piece of work, leave a comment with its scope. A PR can reference the discussion, but an Issue is not a prerequisite. Check both Chinese and English versions when editing community guidance.
 
 If a demo grew from an existing idea, link its original Issue or repository record. Once the playable link and credits are complete, you can update the [submission index](SHOWCASE.en.md) through a Pull Request.
+
+
+## Playable PR previews
+
+[Submission guide](docs/GAME_SUBMISSION.en.md) · [game.json template](templates/game.json) · [Agent skill](skills/openaigames-submit-demo/SKILL.md). Open a PR to get a playable listing preview; merging publishes it to the catalog. New games default to non-featured.
