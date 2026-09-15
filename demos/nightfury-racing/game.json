@@ -22,5 +22,5 @@
   ],
   "credits": "Ziang-Chen 创作，使用 Codex 辅助开发。原创代码采用 MIT 许可。",
   "attribution": "Aventador 模型：Arion Digital；Veyron 模型：DevPoly3D，CC BY 4.0。Three.js、meshoptimizer：MIT；Draco：Apache-2.0。完整来源及修改说明见游戏源码中的 THIRD_PARTY_NOTICES.md 与游戏内署名页。地图封面和海报为 ImageGen 概念艺术。",
-  "featured": false
+  "featured": true
 }
