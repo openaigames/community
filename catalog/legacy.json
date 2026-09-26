@@ -35,7 +35,9 @@
       ],
       "credits": "作者 waterbird-i 负责需求、玩法设计与验收，代码由 AI 辅助完成。",
       "attribution": "据作者说明，本作为《The Binding of Isaac》的致敬性同人作品，与原作者及发行商无关联；图形与音效均由程序生成。",
-      "featured": true
+      "featured": true,
+      "creation_method": "ai_generated",
+      "creation_note": "维护者确认：主要由 AI 生成。"
     }
   ]
 }
