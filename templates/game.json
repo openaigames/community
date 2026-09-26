@@ -17,5 +17,7 @@
   ],
   "credits": "创作者署名与 AI 辅助说明。",
   "attribution": "第三方素材及许可证；没有则留空。",
-  "featured": false
+  "featured": false,
+  "creation_method": "undeclared",
+  "creation_note": ""
 }

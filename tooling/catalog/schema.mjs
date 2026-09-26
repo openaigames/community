@@ -1,3 +1,4 @@
+import { normalizeCreation } from './creation.mjs';
 const forbiddenHosts = new Set(['localhost', 'openaigames.lens-frontier.workers.dev', 'openaigames-preview.lens-frontier.workers.dev', 'openaigames-demo.leonliuzx.chatgpt.site']);
 function text(value, name, max = 1000, optional = false) {
   if (optional && (value === undefined || value === '')) return '';
@@ -16,7 +17,7 @@ function url(value, name, local = false, optional = false) {
 export function normalizeGame(input) {
   if (!input || typeof input !== 'object' || Array.isArray(input) || !/^[a-z0-9][a-z0-9-]{0,63}$/.test(input.id || '')) throw Error('Invalid game id');
   if (input.featured !== undefined && typeof input.featured !== 'boolean') throw Error('Invalid featured flag');
-  const p = { id: input.id, featured: input.featured === true };
+  const p = { id: input.id, featured: input.featured === true, ...normalizeCreation(input) };
   for (const [name,max] of [['title',100],['description',1000],['category',50],['creator',100],['version_label',100],['controls',500],['instructions',2000],['credits',2000]]) p[name] = text(input[name], name, max);
   p.attribution = text(input.attribution, 'attribution', 2000, true);
   for (const name of ['creator_url','source_url','submission_url','preview_url']) p[name] = url(input[name], name);

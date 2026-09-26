@@ -11,6 +11,7 @@ Read [the submission guide](https://github.com/openaigames/community/blob/main/d
 
 - Inspect the existing `demos/` records and open PRs to reuse the game's stable ID and avoid duplicate submissions.
 - Add or update `demos/<id>/game.json`, `README.md`, and any adjacent cover image. Extract details from the user's game and its published documentation. Preserve authorship and third-party credits; distinguish concept art from actual gameplay images.
+- Preserve `creation_method` (`undeclared`, `human`, `ai_assisted`, `ai_generated`) and optional public `creation_note` (500 characters max). Populate them only from an explicit creator declaration or supplied evidence; otherwise use `undeclared`. Human-made means no generative AI use, not merely creator-submitted or approved. Do not infer the method from visuals, hosting or code. Carry confirmed declarations into the formal record when promoting a quick submission.
 - Default `featured` to `false`. New submissions appear in the full catalog after merge; homepage selection is a maintainer decision. Do not modify `catalog/legacy.json` for ordinary submissions.
 - Use the game's working HTTPS playable URL. For source changes, obtain a deployment from that game's own repository first. Do not imply a community PR builds the game itself.
 - `submission_url` may point to the community record; do not invent an unopened PR number. Do not include tokens, private URLs, unpublished drafts, or player data.
