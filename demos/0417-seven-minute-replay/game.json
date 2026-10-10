@@ -1,0 +1,26 @@
+{
+  "attribution": "",
+  "category": "解谜推理",
+  "controls": "鼠标点击导航与卡片 · 文本输入（检索关键词 / 解封码 / 口令）· 全程无需键盘快捷键",
+  "cover_url": "IMG_4707.png",
+  "creation_method": "ai_assisted",
+  "creation_note": "创意方向、谜题结构与最终裁决由人类创作者 Jack 主导并逐版审定；AI 助手参与叙事起草、代码实现、证据链审计与自动化测试。核心谜底自首版起锁定，未因 AI 参与而更改。",
+  "creator": "Jack",
+  "creator_url": "https://github.com/yansuan0713",
+  "credits": "设计与主持：Jack（创意、谜题与版本裁决）；叙事文本、前端实现与 QA 测试由 AI 助手 Muse 协作完成，AI 参与如实声明。封面图为 AI 生成后人工合成排版。游戏本体为纯静态单文件 HTML，不含第三方素材。",
+  "description": "凌晨 04:17，渚城的联网时钟集体回滚了七分钟，同一段时间在所有记录里出现了两次。你是数据修复组的调查员，在一台调查终端里自由探索全部材料：停车场抓拍、门禁与设备日志、关键词检索出的终端碎片、双时间轴证据板——最后提交一份必须逐项引用证据的结案报告。猜对结论但证据不足，照样结不了案。",
+  "featured": false,
+  "feedback_questions": [
+    "第一次打开调查终端时，你知道先查什么吗？哪一步最迷茫？",
+    "哪份材料让你真正确定肇事者是谁？证据链有没有哪一环你觉得不够硬？",
+    "结案报告要求为结论引用证据，这个机制是帮助推理，还是添麻烦？",
+    "在手机上游玩时，表格与双时间轴证据板是否顺手？"
+  ],
+  "id": "0417-seven-minute-replay",
+  "instructions": "浏览器打开试玩地址即玩，无需注册。所有调查地点开局全部开放，自由决定调查顺序；三份关键材料分别被数字码、语义口令与时序拼图锁住。用关键词在「苏晏的终端残片」里检索线索，在「双时间轴证据板」上重排事件，最后在「结案报告」为每项结论引用你已发现的材料并整份提交核对。进度与笔记自动保存在浏览器 localStorage。建议使用桌面浏览器获得最佳体验（移动端可玩，表格需横向滑动）。游戏时长约 1–2 小时。",
+  "preview_url": "https://yansuan0713.github.io/0417-seven-minute-replay/",
+  "source_url": "https://github.com/yansuan0713/0417-seven-minute-replay",
+  "submission_url": "https://github.com/openaigames/community/tree/main/demos/0417-seven-minute-replay",
+  "title": "04:17 · 七分钟重播",
+  "version_label": "v3"
+}
